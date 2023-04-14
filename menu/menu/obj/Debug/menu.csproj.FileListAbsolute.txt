@@ -1,0 +1,7 @@
+D:\C#\week2\pd\menu\menu\bin\Debug\menu.exe.config
+D:\C#\week2\pd\menu\menu\bin\Debug\menu.exe
+D:\C#\week2\pd\menu\menu\bin\Debug\menu.pdb
+D:\C#\week2\pd\menu\menu\obj\Debug\menu.csproj.AssemblyReference.cache
+D:\C#\week2\pd\menu\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+D:\C#\week2\pd\menu\menu\obj\Debug\menu.exe
+D:\C#\week2\pd\menu\menu\obj\Debug\menu.pdb
